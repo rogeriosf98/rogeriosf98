@@ -24,12 +24,16 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Rogério" height="170" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosf98&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" height="170" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosf98&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula" alt="Estatísticas do Rogério" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogeriosf98&theme=dracula" alt="Streak do Rogério" />
 </p>
 
 ---
