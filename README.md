@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B3F00&height=250&section=header&text=Rogerio%20Ferreira&fontSize=70&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Coffee%20Lover%20☕&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=250&section=header&text=Rogerio%20Ferreira&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor&descAlignY=51&descSize=20&fontColor=8be9fd&descColor=6272a4" />
 </p>
 
 # 💻 Olá, eu sou o Rogério Ferreira 👨🏻‍💻
