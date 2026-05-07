@@ -23,8 +23,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ### 📊 Estatísticas do GitHub
 
+### 🏆 Troféus de Desenvolvedor
 <p align="center">
-  <img src="https://kodinger-capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rogerio%20Ferreira&fontSize=70" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rogeriosf98&theme=dracula&no-frame=true&column=4" alt="Troféus do Rogério" />
 </p>
 
 <p align="center">
