@@ -24,8 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosf98&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do Rogério" />
 </p>
 
 <p align="center">
