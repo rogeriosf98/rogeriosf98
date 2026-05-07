@@ -23,11 +23,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ### 📊 Estatísticas do GitHub
 
-### 🏆 Troféus de Desenvolvedor
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rogeriosf98&theme=dracula&no-frame=true&column=4" alt="Troféus do Rogério" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula" alt="Estatísticas do Rogério" />
 </p>
@@ -38,13 +33,29 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ---
 
+### 🏆 Troféus de Desenvolvedor
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rogeriosf98&theme=dracula&no-frame=true&column=4" alt="Troféus do Rogério" />
+</p>
+
+---
+
+### 🚀 No que estou trabalhando agora?
+- 🔭 Atualmente aprimorando meus conhecimentos em **Laravel e APIs REST**.
+- 🌱 Estudando profundamente Funções e DOM em JavaScript.
+- 💬 Pergunte-me sobre: **PHP, JavaScript e Desenvolvimento Web**.
+- ⚡ Curiosidade: A interação entre Js, Php (Laravel) é  que me chama muita atenção e foco nos estudos e desenvolvimento.
+
+---
+
+
 ### 🤝 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rogerio-ferreira-70294438b/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@email.com" target="_blank">
+  <a href="mailto:rogeriosfpro@email.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
