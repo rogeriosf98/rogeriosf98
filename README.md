@@ -25,10 +25,10 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Rogério" height="170" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Rogério" height="170" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" height="170" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosf98&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" height="170" />
   </a>
 </p>
 
