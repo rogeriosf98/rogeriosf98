@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogeriosf98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do Rogério" />
+  <img src="https://kodinger-capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rogerio%20Ferreira&fontSize=70" />
 </p>
 
 <p align="center">
